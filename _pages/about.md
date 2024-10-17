@@ -85,6 +85,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 </div>
 
 # 🎖 Honors and Awards
+- *2024.10* IEEE TMI Distinguished Reviewer.
 - *2023.12* Won the first prize of the seed group in the intelligent medical special competition of the National Artificial Intelligence Application Scene Innovation Challenge Competition. 
 - *2023.10* Second-class scholarship of Nankai University.
 - *2022.10* Second-class scholarship of Nankai University.
