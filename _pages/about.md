@@ -23,6 +23,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 
 
 # 🔥 News
+- *2024.09*: One papers was accepted by NIPS 2024.
 - *2024.06*: One papers was accepted by MICCAI2024.
 - *2024.05*: One papers was early accepted by MICCAI2024.
 - *2023.11*: One paper accepted by IEEE TMI. 
