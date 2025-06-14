@@ -23,6 +23,8 @@ My research interest includes medical image analysis,semi-supervised learning an
 
 
 # 🔥 News
+- *2025.04*: One papers was accepted by MIA 2025.
+- *2024.11*: One papers was accepted by NN 2024.
 - *2024.09*: One papers was accepted by NIPS 2024.
 - *2024.06*: One papers was accepted by MICCAI2024.
 - *2024.05*: One papers was early accepted by MICCAI2024.
@@ -90,7 +92,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 - *2020.10* Freshman Scholarship of Nankai University.
 
 # 📖 Educations
-- *2020.09 - now*, Ph.D, Nankai University, Tianjin, China. 
+- *2020.09 - 2025.06*, Ph.D, Nankai University, Tianjin, China. 
 - *2016.09 - 2020.06*, B.S, Northwest A&F University, Yangling, Shaanxi, China. 
 
 # 💻 Reviewers
