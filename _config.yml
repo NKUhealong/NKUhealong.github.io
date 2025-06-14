@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Along He"
-description              : "Ph.D. Candidate, A*STAR Visiting Student. "
+description              : "Assistant Professor "
 repository               : "NKUhealong/NKUhealong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Along He"
   avatar           : "images/Alonghe.jpg"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  bio              : "Shenzhen University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ybe7pW8AAAAJ&hl=zh-CN"
