@@ -33,7 +33,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div> 
 <div class='paper-box-text' markdown="1">
 
-[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035)
+[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035) (**Highly cited paper**)
 
 **Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
 </div>
@@ -51,7 +51,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768)
+[H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768) (**Highly cited paper**)
 
 **Along He**, Kai Wang, Tao Li, Chengkun Du, Shuang Xia and Huazhu Fu.
 </div>
@@ -87,9 +87,6 @@ My research interest includes medical image analysis,semi-supervised learning an
 # 🎖 Honors and Awards
 - *2024.10* IEEE TMI Distinguished Reviewer.
 - *2023.12* Won the first prize of the seed group in the intelligent medical special competition of the National Artificial Intelligence Application Scene Innovation Challenge Competition. 
-- *2023.10* Second-class scholarship of Nankai University.
-- *2022.10* Second-class scholarship of Nankai University.
-- *2021.10* Second-class scholarship of Nankai University.
 - *2020.10* Freshman Scholarship of Nankai University.
 
 # 📖 Educations
