@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently pursuing the Ph.D. degree with the College of Computer Science, Nankai University, advised by Prof. Tao Li. I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2023 to September 2024 under the supervision of Dr Huazhu Fu.
+I am now an assistant professor at Shenzhen University and I have received my PhD from Nankai University in 2025, advised by Prof. Tao Li. I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2023 to September 2024 under the supervision of Dr Huazhu Fu.
 
 My research interest includes medical image analysis,semi-supervised learning and computer vision.
 
