@@ -34,7 +34,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2025</div><img src='images//paper5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images//paper5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HookMoE: A learnable performance compensation strategy of Mixture-of-Experts for LLM inference acceleration](https://openreview.net/forum?id=mrl7aq4VYH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2025%2FConference%2FAuthors%23your-submissions))
