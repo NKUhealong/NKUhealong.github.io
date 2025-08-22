@@ -25,21 +25,30 @@ My research interest includes medical image analysis,semi-supervised learning an
 # 🔥 Recent News
 - *2025.08*: One papers was accepted by **EMNLP 2025**.
 - *2025.08*: One papers was accepted by **ACMMM 2025 Datasets Track**.
-- *2025.04*: One papers was accepted by **MIA 2025**.
+- *2025.04*: One papers was accepted by **MedIA 2025**.
 - *2024.11*: One papers was accepted by **NN 2024**.
-- *2024.09*: One papers was accepted by **NIPS 2024**.
+- *2024.09*: One papers was accepted by **NeurIPS 2024**.
 - *2024.06*: One papers was accepted by **MICCAI2024**.
 - *2024.05*: One papers was early accepted by **MICCAI2024**.
 - *2023.11*: One paper accepted by **IEEE TMI**. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2025</div><img src='images//paper5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-[Bilateral Supervision Network for Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10375506)
 
-**Along He**, Tao Li, Juncheng Yan, Kai Wang, and Huazhu Fu. _**IEEE TMI**_ 2024.
+[HookMoE: A learnable performance compensation strategy of Mixture-of-Experts for LLM inference acceleration](https://openreview.net/forum?id=mrl7aq4VYH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2025%2FConference%2FAuthors%23your-submissions))
+
+Longkai Cheng†, **Along He**†(Co-first author), Mulin Li, Xie xueshuo*, Tao Li*. _**EMNLP**_ 2025.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA 2025</div><img src='images//paper5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AdaptFRCNet: Semi-supervised adaptation of pre-trained model with frequency and region consistency for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001732)
+
+**Along He**, Y Wu, Z Wang, Tao Li, and Huazhu Fu. _**Medical Image Analysis**_ 2025.
 </div>
 </div>
 
@@ -58,6 +67,15 @@ My research interest includes medical image analysis,semi-supervised learning an
 [Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter](https://arxiv.org/abs/2405.16573)
 
 **Along He**, Tao Li, Yitian Zhao, Junyong Zhao, and Huazhu Fu.  _**MICCAI**_ 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Bilateral Supervision Network for Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10375506)
+
+**Along He**, Tao Li, Juncheng Yan, Kai Wang, and Huazhu Fu. _**IEEE TMI**_ 2024.
 </div>
 </div>
 
