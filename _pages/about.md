@@ -40,6 +40,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 [CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035) (**Highly cited paper**)
 
 **Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
+_IEEE TMI_ 2021
 </div>
 </div>
 
