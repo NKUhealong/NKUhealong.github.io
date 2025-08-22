@@ -34,40 +34,12 @@ My research interest includes medical image analysis,semi-supervised learning an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div> 
-<div class='paper-box-text' markdown="1">
-
-[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035) (**Highly cited paper**)
-
-**Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu.
-_IEEE TMI_ 2021
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2022</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Progressive multiscale consistent network for multiclass fundus lesion segmentation](https://ieeexplore.ieee.org/abstract/document/9781413)
-
-**Along He**, Kai Wang, Tao Li, Wang Bo, Hong Kang, and Huazhu Fu.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768) (**Highly cited paper**)
-
-**Along He**, Kai Wang, Tao Li, Chengkun Du, Shuang Xia and Huazhu Fu.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images//paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [Bilateral Supervision Network for Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10375506)
 
-**Along He**, Tao Li, Juncheng Yan, Kai Wang, and Huazhu Fu.
+**Along He**, Tao Li, Juncheng Yan, Kai Wang, and Huazhu Fu. _**IEEE TMI**_ 2024.
 </div>
 </div>
 
@@ -76,7 +48,7 @@ _IEEE TMI_ 2021
 
 [FRCNet: Frequency and Region Consistency for Semisupervised Medical Image Segmentation](https://arxiv.org/abs/2405.16573)
 
-**Along He**, Tao Li, Yanlin Wu, Ke Zou, and Huazhu Fu. 
+**Along He**, Tao Li, Yanlin Wu, Ke Zou, and Huazhu Fu. _**MICCAI**_ 2024.
 </div>
 </div>
 
@@ -85,7 +57,33 @@ _IEEE TMI_ 2021
 
 [Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter](https://arxiv.org/abs/2405.16573)
 
-**Along He**, Tao Li, Yitian Zhao, Junyong Zhao, and Huazhu Fu. 
+**Along He**, Tao Li, Yitian Zhao, Junyong Zhao, and Huazhu Fu.  _**MICCAI**_ 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/structure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[H2Former: An efficient hierarchical hybrid transformer for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10093768) (**Highly cited paper**)
+
+**Along He**, Kai Wang, Tao Li, Chengkun Du, Shuang Xia and Huazhu Fu. _**IEEE TMI**_ 2023.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2022</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive multiscale consistent network for multiclass fundus lesion segmentation](https://ieeexplore.ieee.org/abstract/document/9781413)
+
+**Along He**, Kai Wang, Tao Li, Wang Bo, Hong Kang, and Huazhu Fu.  _**IEEE TMI**_ 2022.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2020</div><img src='images/CABNet_structure.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box-text' markdown="1">
+
+[CABNet: category attention block for imbalanced diabetic retinopathy grading](https://ieeexplore.ieee.org/abstract/document/9195035) (**Highly cited paper**)
+
+**Along He**, Tao Li, Ning Li, Kai Wang and Huazhu Fu. _**IEEE TMI**_ 2020.
 </div>
 </div>
 
