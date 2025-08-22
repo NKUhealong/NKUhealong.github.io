@@ -22,13 +22,15 @@ I am now an assistant professor at Shenzhen University and I have received my Ph
 My research interest includes medical image analysis,semi-supervised learning and computer vision.
 
 
-# 🔥 News
-- *2025.04*: One papers was accepted by MIA 2025.
-- *2024.11*: One papers was accepted by NN 2024.
-- *2024.09*: One papers was accepted by NIPS 2024.
-- *2024.06*: One papers was accepted by MICCAI2024.
-- *2024.05*: One papers was early accepted by MICCAI2024.
-- *2023.11*: One paper accepted by IEEE TMI. 
+# 🔥 Recent News
+- *2025.08*: One papers was accepted by **EMNLP 2025**.
+- *2025.08*: One papers was accepted by **ACMMM 2025 Datasets Track**.
+- *2025.04*: One papers was accepted by **MIA 2025**.
+- *2024.11*: One papers was accepted by **NN 2024**.
+- *2024.09*: One papers was accepted by **NIPS 2024**.
+- *2024.06*: One papers was accepted by **MICCAI2024**.
+- *2024.05*: One papers was early accepted by **MICCAI2024**.
+- *2023.11*: One paper accepted by **IEEE TMI**. 
 
 # 📝 Publications 
 
