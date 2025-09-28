@@ -19,10 +19,16 @@ redirect_from:
 
 I am now an assistant professor at Shenzhen University and I have received my PhD from Nankai University in 2025, advised by Prof. [Tao Li](https://cc.nankai.edu.cn/2021/0323/c13619a548882/page.htm). I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2023 to September 2024 under the supervision of Dr [Huazhu Fu](https://hzfu.github.io/). 
 
-My email：healong2020@163.com and healong@szu.edu.cn.
+Email：healong2020@163.com and healong@szu.edu.cn.
 
 My research interest includes medical image analysis,semi-supervised learning and computer vision.
 
+每年招收2名左右的硕士研究生，如果你对AI+医疗影像分析感兴趣，欢迎联系我！
+招生要求：
+- 对计算机视觉和医疗影像研究方向感兴趣.
+- 善于沟通，积极主动.
+- 有良好的英文写作和文献阅读能力.
+- 较强的编程能力，熟悉Python和pytorch框架.
 
 # 🔥 Recent News
 - *2025.08*: One papers was accepted by **EMNLP 2025**.
