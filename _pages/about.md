@@ -24,6 +24,7 @@ Email：healong2020@163.com and healong@szu.edu.cn.
 My research interest includes medical image analysis,semi-supervised learning and computer vision.
 
 🎓 📚  每年招收2名左右的硕士研究生，如果你对AI+医疗影像分析感兴趣，欢迎发送简历至邮箱联系我！
+
 **招生要求：**
 - 对计算机视觉和医疗影像研究方向感兴趣.
 - 善于沟通，积极主动,有一定的抗压能力.
