@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now an assistant professor at Shenzhen University and I have received my PhD from Nankai University in 2025, advised by Prof. Tao Li. I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2023 to September 2024 under the supervision of Dr Huazhu Fu.  My email：healong2020(AT)163(DOT)com and healong(AT)szu(DOT)edu(DOT)cn.
+I am now an assistant professor at Shenzhen University and I have received my PhD from Nankai University in 2025, advised by Prof. Tao Li. I was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2023 to September 2024 under the supervision of Dr [Huazhu Fu](https://hzfu.github.io/).  My email：healong2020@163.com and healong@szu.edu.cn.
 
 My research interest includes medical image analysis,semi-supervised learning and computer vision.
 
@@ -114,6 +114,6 @@ Longkai Cheng†, **Along He**†(Co-first author), Mulin Li, Xie xueshuo*, Tao 
 - *2020.09 - 2025.06*, Ph.D, Nankai University, Tianjin, China. 
 - *2016.09 - 2020.06*, B.S, Northwest A&F University, Yangling, Shaanxi, China. 
 
-# 💻 Reviewers
+# 💻 Academic Activities
 - Conference Reviewer: MICCAI2023, ISBI 2022.
 - Journal Reviewer: IEEE TMI, MIA, IEEE JBHI
