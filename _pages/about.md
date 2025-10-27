@@ -33,7 +33,7 @@ My research interest includes medical image analysis,semi-supervised learning an
   
 **本人尽可能提供：**
 
-✅ **手把手指导** —— 从读论文，代码，写作全称参与指导  
+✅ **手把手指导** —— 从读论文，代码，写作全程参与指导  
 ✅ **鼓励实习** —— 完成科研任务的前提下，鼓励去大厂实习  
 ✅ **计算资源** —— 有充足的GPU资源可供使用  
 ✅ **轻松的氛围** —— 不用打卡，时间相对自由  
