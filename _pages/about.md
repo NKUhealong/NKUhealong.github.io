@@ -125,6 +125,11 @@ Longkai Cheng†, **Along He**†(Co-first author), Mulin Li, Xie xueshuo*, Tao 
 </div>
 </div>
 
+# Project
+- *2027年01月01日 -- 2029年12月31日* 青年科学基金项目（C类），30万，主持，在研.
+- *2026年01月01日 -- 2028年12月31日* 广东省自然科学基金-面上项目，10万，主持，在研.
+- *2026年6月 -- 2028年5月* 广东省科协青年科技人才培育计划，3万，主持，在研.
+
 # 🎖 Honors and Awards
 - *2024.10* IEEE TMI Distinguished Reviewer.
 - *2023.12* Won the first prize of the National Artificial Intelligence Application Scene Innovation Challenge Competition. 
