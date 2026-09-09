@@ -41,6 +41,8 @@ My research interest includes medical image analysis,semi-supervised learning an
 
  📝 也欢迎学有余力的本科生进组实习！
 # 🔥 Recent News
+- *2026.06*: One papers was accepted by **MICCAI 2026**.
+- *2026.01*: One papers was accepted by **KBS 2026**.
 - *2025.08*: One papers was accepted by **EMNLP 2025**.
 - *2025.08*: One papers was accepted by **ACMMM 2025 Datasets Track**.
 - *2025.04*: One papers was accepted by **MedIA 2025**.
