@@ -23,7 +23,7 @@ Email：healong2020@163.com and healong@szu.edu.cn.
 
 My research interest includes medical image analysis,semi-supervised learning and computer vision.
 
-🎓 📚  每年招收2名左右的硕士研究生，如果你对AI+医疗影像分析感兴趣，欢迎发送简历至邮箱联系我！
+🎓 📚  **每年招收2名左右的硕士研究生，如果你对AI+医疗影像分析感兴趣，欢迎发送简历至邮箱联系我**！ **也欢迎学有余力的本科生进组实习**！
 
 **招生要求：**
 - 对计算机视觉和医疗影像研究方向感兴趣.
@@ -39,7 +39,7 @@ My research interest includes medical image analysis,semi-supervised learning an
 ✅ **轻松的氛围** —— 不用打卡，时间相对自由  
 ✅ **继续深造** —— 可推荐去海外或国内高校进一步深造
 
- 📝 也欢迎学有余力的本科生进组实习！
+
 # 🔥 Recent News
 - *2026.06*: One papers was accepted by **MICCAI 2026**.
 - *2026.01*: One papers was accepted by **KBS 2026**.
@@ -126,9 +126,9 @@ Longkai Cheng†, **Along He**†(Co-first author), Mulin Li, Xie xueshuo*, Tao 
 </div>
 
 # Project
-- *2027年01月01日 -- 2029年12月31日* 青年科学基金项目（C类），30万，主持，在研.
-- *2026年01月01日 -- 2028年12月31日* 广东省自然科学基金-面上项目，10万，主持，在研.
-- *2026年6月 -- 2028年5月* 广东省科协青年科技人才培育计划，3万，主持，在研.
+**- 2027年01月01日 -- 2029年12月31日， 青年科学基金项目（C类），30万，主持，在研.
+-  2026年01月01日 -- 2028年12月31日， 广东省自然科学基金-面上项目，10万，主持，在研.
+- 2026年6月 -- 2028年5月， 广东省科协青年科技人才培育计划，3万，主持，在研.**
 
 # 🎖 Honors and Awards
 - *2024.10* IEEE TMI Distinguished Reviewer.
